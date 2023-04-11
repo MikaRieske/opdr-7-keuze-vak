@@ -1,0 +1,858 @@
+
+img{
+    /* Ellipse 1 */
+
+
+position: absolute;
+width: 243px;
+height: 243px;
+left: 760px;
+top: 210px;
+
+
+
+
+
+
+
+}
+.mid{
+    /* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. */
+
+
+position: absolute;
+width: 497px;
+height: 66px;
+left: 148px;
+top: 373px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+/* Dark Color */
+
+color: #21243D;
+}
+
+.begin{
+    /* Hi, I am John, Creative Technologist */
+
+
+position: absolute;
+width: 506px;
+height: 105px;
+left: 148px;
+top: 228px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 60px;
+/* or 136% */
+
+
+/* Dark Color */
+
+color: #21243D;
+
+}
+
+.boven1{
+
+    /* Works */
+
+
+position: absolute;
+width: 57px;
+height: 43px;
+left: 856px;
+top: 27px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+text-align: right;
+
+color: #000000;
+}
+
+.boven2{
+    /* Blog */
+
+
+position: absolute;
+width: 106px;
+height: 43px;
+left: 882px;
+top: 27px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+text-align: right;
+
+color: #000000;
+
+}
+.boven3{
+    /* Contact */
+
+
+position: absolute;
+width: 71px;
+height: 43px;
+left: 1021px;
+top: 27px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+text-align: right;
+
+color: #000000;
+}
+.red{
+    /* Rectangle 10 */
+
+
+position: absolute;
+width: 208px;
+height: 47px;
+left: 148px;
+top: 477px;
+
+/* Primary */
+
+background: #FF6464;
+border-radius: 2px;
+}
+
+
+
+.download{
+    /* Download Resume */
+
+
+position: absolute;
+width: 167px;
+height: 21px;
+left: 168px;
+top: 486px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+
+
+}
+
+.bleu{
+    /* Rectangle 23 */
+
+
+position: absolute;
+width: 1152px;
+height: 396px;
+left: 0px;
+top: 595px;
+
+background: #EDF7FA
+}
+
+.recent{
+
+/* Recent posts */
+
+
+position: absolute;
+width: 129px;
+height: 60px;
+left: 148px;
+top: 602px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 60px;
+/* identical to box height, or 273% */
+
+display: flex;
+align-items: flex-end;
+
+/* Dark Color */
+
+color: #21243D;
+}
+
+
+
+
+.bovenbox1{
+    /* Making a design system from scratch */
+
+
+position: absolute;
+width: 374px;
+height: 85px;
+left: 171px;
+top: 688px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 38px;
+
+/* Dark Color */
+
+color: #21243D;
+
+/* Rectangle 24 */
+
+
+position: absolute;
+width: 418px;
+height: 295px;
+left: 148px;
+top: 664px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
+border-radius: 4px;
+
+    
+}
+
+.bovenbox2{
+    /* 12 Feb 2020 */
+
+
+position: absolute;
+width: 374px;
+height: 34px;
+left: 171px;
+top: 790px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+
+/* Dark Color */
+
+color: #21243D;
+}
+.rec{
+    /* Vector 1 */
+
+
+position: absolute;
+width: 0px;
+height: 21px;
+left: 301px;
+top: 793px;
+
+border: 1px solid #000000;
+}
+.bovenbox3{
+    /* Design, Pattern */
+
+
+position: absolute;
+width: 239px;
+height: 34px;
+left: 327px;
+top: 790px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+
+/* Dark Color */
+
+color: #21243D;
+}
+.bovenboxt{
+    /* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. */
+
+
+position: absolute;
+width: 368px;
+height: 117px;
+left: 171px;
+top: 835px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+/* Dark Color */
+
+color: #21243D;
+
+}
+.sidebox1{
+    /* Creating pixel perfect icons in Figma */
+
+
+position: absolute;
+width: 374px;
+height: 85px;
+left: 609px;
+top: 688px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 38px;
+
+/* Dark Color */
+
+color: #21243D;
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 418px;
+height: 295px;
+left: 586px;
+top: 664px;
+
+background: #FFFFFF;
+border-radius: 4px;
+
+}
+.sidebox2{
+    /* 12 Feb 2020 */
+
+
+position: absolute;
+width: 374px;
+height: 34px;
+left: 609px;
+top: 790px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+
+/* Dark Color */
+
+color: #21243D;
+
+}
+.sidebox3{
+    /* Vector 2 */
+
+
+position: absolute;
+width: 0px;
+height: 21px;
+left: 740px;
+top: 791px;
+
+border: 1px solid #000000;
+}
+.sidebox4{
+    /* Figma, Icon Design */
+
+
+position: absolute;
+width: 239px;
+height: 34px;
+left: 765px;
+top: 790px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+
+/* Dark Color */
+
+color: #21243D;
+
+}
+
+.sidebox5{
+    /* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. */
+
+
+position: absolute;
+width: 368px;
+height: 117px;
+left: 609px;
+top: 835px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+/* Dark Color */
+
+color: #21243D;
+
+}
+.all{
+    /* View all */
+
+
+position: absolute;
+width: 208px;
+height: 20px;
+left: 796px;
+top: 622px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: right;
+
+/* Secondry */
+
+color: #00A8CC;
+
+}
+
+.onderbox1{
+    /* Featured works */
+
+
+position: absolute;
+width: 152px;
+height: 60px;
+left: 148px;
+top: 1006px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 60px;
+/* identical to box height, or 273% */
+
+
+/* Dark Color */
+
+color: #21243D;
+
+}
+
+.img1{
+    /* Rectangle 30 */
+
+
+position: absolute;
+width: 246px;
+height: 180px;
+left: 146px;
+top: 1088px;
+
+background: url(image.png);
+border-radius: 6px;
+}
+.onderbox2{
+    /* Designing Dashboards */
+
+
+position: absolute;
+width: 305px;
+height: 44px;
+left: 410px;
+top: 1077px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 44px;
+/* identical to box height */
+
+
+/* Dark Color */
+
+color: #21243D;
+
+}
+.onderbox3{
+    /* Dashboard */
+
+
+position: absolute;
+width: 374px;
+height: 34px;
+left: 498px;
+top: 1137px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+
+/* Light */
+
+color: #8695A4;
+
+}
+.re1{
+    /* Rectangle 2 */
+
+
+position: absolute;
+width: 62px;
+height: 25px;
+left: 410px;
+top: 1141px;
+
+background: #142850;
+border-radius: 16px;
+}
+.onderbox4{
+    /* 2020 */
+
+
+position: absolute;
+width: 42px;
+height: 60px;
+left: 420px;
+top: 1123px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 60px;
+/* identical to box height, or 333% */
+
+
+color: #FFFFFF;
+
+}
+.onderbox5{
+    /* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. */
+
+
+position: absolute;
+width: 594px;
+height: 93px;
+left: 410px;
+top: 1188px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+/* Dark Color */
+
+color: #21243D;
+}
+.vector{
+    /* Vector 8 */
+
+
+position: absolute;
+width: 858px;
+height: 0px;
+left: 146px;
+top: 1283px;
+
+/* Gray 5 */
+
+border: 1px solid #E0E0E0;
+}
+.img2{
+    /* Rectangle 32 */
+
+
+position: absolute;
+width: 246px;
+height: 180px;
+left: 146px;
+top: 1314px;
+
+background: url(image.png);
+border-radius: 6px;
+}
+.onderbox_1{
+    /* Vibrant Portraits of 2020 */
+
+
+position: absolute;
+width: 337px;
+height: 44px;
+left: 410px;
+top: 1312px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 44px;
+/* identical to box height */
+
+
+/* Dark Color */
+
+color: #21243D;
+
+}
+.achtergrond_1{
+    /* Rectangle 37 */
+
+
+position: absolute;
+width: 62px;
+height: 25px;
+left: 410px;
+top: 1372px;
+
+background: #142850;
+border-radius: 16px;
+}
+
+.jaar{
+    /* 2018 */
+
+
+position: absolute;
+width: 42px;
+height: 60px;
+left: 420px;
+top: 1354px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 60px;
+/* identical to box height, or 333% */
+
+
+color: #FFFFFF;
+
+}
+.onderbox_2{
+    /* Illustration */
+
+
+position: absolute;
+width: 374px;
+height: 34px;
+left: 498px;
+top: 1368px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+
+/* Light */
+
+color: #8695A4;
+
+}
+.onderbox_3{
+    /* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. */
+
+
+position: absolute;
+width: 594px;
+height: 93px;
+left: 410px;
+top: 1419px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+/* Dark Color */
+
+color: #21243D;
+}
+.streep2{
+  /* Vector 12 */
+
+
+position: absolute;
+width: 858px;
+height: 0px;
+left: 146px;
+top: 1529px;
+
+/* Gray 5 */
+
+border: 1px solid #E0E0E0;
+}
+.img3{
+    /* Rectangle 34 */
+
+
+position: absolute;
+width: 246px;
+height: 184px;
+left: 146px;
+top: 1560px;
+
+background: url(image.png);
+border-radius: 6px;
+}
+.onderbox-1{
+    /* 36 Days of Malayalam type */
+
+
+position: absolute;
+width: 365px;
+height: 44px;
+left: 410px;
+top: 1560px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 44px;
+/* identical to box height */
+
+
+/* Dark Color */
+
+color: #21243D;
+}
+.achtergrond_2{
+    /* Rectangle 38 */
+
+
+position: absolute;
+width: 62px;
+height: 25px;
+left: 410px;
+top: 1617px;
+
+background: #142850;
+border-radius: 16px;
+}
+.jaartal{
+    /* 2018 */
+
+
+position: absolute;
+width: 42px;
+height: 60px;
+left: 420px;
+top: 1599px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 60px;
+/* identical to box height, or 333% */
+
+
+color: #FFFFFF;
+}
+.onderbox-2{
+    /* Typography */
+
+
+position: absolute;
+width: 374px;
+height: 34px;
+left: 498px;
+top: 1613px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+
+/* Light */
+
+color: #8695A4;
+}
+.onderbox-3{
+    /* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. */
+
+
+position: absolute;
+width: 507px;
+height: 93px;
+left: 413px;
+top: 1679px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+/* Dark Color */
+
+color: #21243D;
+
+}
+.streep{
+    /* Vector 13 */
+
+
+position: absolute;
+width: 858px;
+height: 0px;
+left: 146px;
+top: 1776px;
+
+/* Gray 5 */
+
+border: 1px solid #E0E0E0;
+}
+.logo1{
+/* fb */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: calc(50% - 30px/2 - 102px);
+top: calc(50% - 30px/2 - 25px);
+
+/* Dark */
+
+background: #21243D;
+
+}
